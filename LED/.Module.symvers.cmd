@@ -1,0 +1,1 @@
+cmd_/home/aniketkumbhar/Documents/Aniket/ELDD/LED/Module.symvers := sed 's/ko$$/o/' /home/aniketkumbhar/Documents/Aniket/ELDD/LED/modules.order | scripts/mod/modpost -m -a   -o /home/aniketkumbhar/Documents/Aniket/ELDD/LED/Module.symvers -e -i Module.symvers   -T -
